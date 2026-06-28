@@ -2,7 +2,7 @@
 
 The official website for **Total Tech Solutions**, your one-stop tech shop in **Bugasong, Antique, Philippines**.
 
-🌐 **Live site:** `https://YOUR-USERNAME.github.io/totaltech-website`
+🌐 **Live site:** `https://malcolmxv.github.io/totaltech-website`
 
 ---
 
